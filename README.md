@@ -8,6 +8,7 @@
 - Ajoutez le sous-titre **Fiche d'inscription du participant**.
 - Ajoutez aussi un formulaire avec les spécifications décrites plus bas.
 - Les deux titres et le formulaire doivent être centrés horizontalement.
+- Quand un input à le focus, modifier le en css pour l'indiquer. (Ex. changer la couleur de fond, faire une animation de surbrillance du contour, etc.)
 - Utilisez css pour rendre le formulaire un peu plus "attrayant". (espacement entre les inputs, mise en forme de ceux-ci, etc.) 
 
 ## Formulaire
